@@ -1,4 +1,4 @@
-import Login3 from '../components/Login3'
+import Login3 from '../components/login3'
 
 
 export default function Auth() {
