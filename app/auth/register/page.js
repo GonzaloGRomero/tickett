@@ -17,6 +17,7 @@ export default function Register() {
       />
       <h2 className="mt-6 text-center text-2xl font-bold leading-9 tracking-tight text-white">
         Registrate 
+        
       </h2>
     </div>
 
