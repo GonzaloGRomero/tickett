@@ -1,8 +1,9 @@
-import Login3 from '../components/login3'
+import AuthBasic from "../components/login";
+
 
 
 export default function Auth() {
     return (
-        <Login3/>
+        <AuthBasic/>
     )
 }
